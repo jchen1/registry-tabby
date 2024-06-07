@@ -9,10 +9,7 @@
       "https://huggingface.co/microsoft/Phi-3-mini-128k-instruct/resolve/main/model-00001-of-00002.safetensors",
       "https://huggingface.co/microsoft/Phi-3-mini-128k-instruct/resolve/main/model-00002-of-00002.safetensors"
     ],
-    "sha256": [
-      "85de6de07866175c917873330472299b8b3c80477b4e9fb2c5fa482b607e2612",
-      "093f31884c6ff2d3ecc8b7f6421cfe6855526b60831cc6d0da0689ea91c28b68"
-    ]
+    "sha256": "85de6de07866175c917873330472299b8b3c80477b4e9fb2c5fa482b607e2612"
   },
   {
     "license_name": "BigCode-OpenRAIL-M",
