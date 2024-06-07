@@ -6,7 +6,7 @@
     "name": "Phi-3-mini-128k-instruct",
     "provider_url": "https://huggingface.co/QuantFactory/Phi-3-mini-128k-instruct-GGUF",
     "urls": [
-      "https://huggingface.co/QuantFactory/Phi-3-mini-128k-instruct-GGUF/blob/main/Phi-3-mini-128k-instruct.Q8_0.gguf"
+      "https://huggingface.co/QuantFactory/Phi-3-mini-128k-instruct-GGUF/resolve/main/Phi-3-mini-128k-instruct.Q8_0.gguf"
     ],
     "sha256": "6817b66d1c3c59ab06822e9732f0e594eea44e64cae2110906eac9d17f75d193"
   },
