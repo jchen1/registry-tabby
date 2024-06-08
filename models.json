@@ -2,10 +2,8 @@
   {
     "name": "Test-StarCoder-1B",
     "urls": [
-      "https://huggingface.co/TabbyML/models/resolve/main/starcoderbase-1B.Q8_0.gguf",
-      "https://modelscope.cn/api/v1/models/TabbyML/StarCoder-1B/repo?FilePath=ggml/q8_0.v2.gguf"
-    ],
-    "sha256": "bb6441486d102db03dac30c82d6b1029ee4f9f5d73f27444fa58cbfcd7cfa0f"
+      "https://huggingface.co/TabbyML/models/resolve/main/starcoderbase-1B.Q8_0.gguf"
+    ]
   },
   {
     "license_name": "MIT",
