@@ -1,5 +1,11 @@
 [
   {
+    "name": "pjh64",
+    "urls": [
+      "https://huggingface.co/pjh64/Phi-3-mini-128K-Instruct.gguf/resolve/main/phi-3-mini-128K-Instruct_q8_0.gguf"
+    ]
+  },
+  {
     "name": "Test-StarCoder-1B",
     "urls": [
       "https://huggingface.co/TabbyML/models/resolve/main/starcoderbase-1B.Q8_0.gguf"
