@@ -10,12 +10,6 @@
     "sha256": "3ca7c335a2f300214e56f0f0da40ceedcb150995c934722eb3cad79e9adac803"
   },
   {
-    "name": "Test-StarCoder-1B",
-    "urls": [
-      "https://huggingface.co/TabbyML/models/resolve/main/starcoderbase-1B.Q8_0.gguf"
-    ]
-  },
-  {
     "license_name": "MIT",
     "license_url": "https://huggingface.co/microsoft/Phi-3-mini-128k-instruct/blob/main/LICENSE",
     "name": "Phi-3-mini-128k-instruct",
