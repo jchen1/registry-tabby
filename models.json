@@ -5,7 +5,7 @@
     "name": "DeepseekCoderV2",
     "provider_url": "https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Lite-Base",
     "urls": [
-      "https://huggingface.co/bartowski/DeepSeek-Coder-V2-Lite-Base-GGUF/raw/main/DeepSeek-Coder-V2-Lite-Base-Q4_K_M.gguf"
+      "https://huggingface.co/bartowski/DeepSeek-Coder-V2-Lite-Base-GGUF/resolve/main/DeepSeek-Coder-V2-Lite-Base-Q4_K_M.gguf"
     ],
     "sha256": "9c606f987ace7e95bbcd93e381c32fa0438d3e2da7a94601a0ed3d18a4ed15b7"
   },
