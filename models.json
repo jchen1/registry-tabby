@@ -1,6 +1,16 @@
 [
   {
     "license_name": "MIT",
+    "license_url": "https://github.com/deepseek-ai/DeepSeek-Coder-V2/blob/main/LICENSE-MODEL",
+    "name": "DeepseekCoder-V2",
+    "provider_url": "https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Lite-Base",
+    "urls": [
+      "https://huggingface.co/bartowski/DeepSeek-Coder-V2-Lite-Base-GGUF/resolve/main/DeepSeek-Coder-V2-Lite-Base-Q8_0_L.gguf"
+    ],
+    "sha256": "0516a0d5f1e89b081cebed7f353fb7230913f3040a924988607890832aee04a7"
+  },
+  {
+    "license_name": "MIT",
     "license_url": "https://huggingface.co/microsoft/Phi-3-mini-128k-instruct/blob/main/LICENSE",
     "name": "Phi-3",
     "provider_url": "https://huggingface.co/microsoft/Phi-3-mini-128k-instruct",
