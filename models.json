@@ -5,9 +5,9 @@
     "name": "DeepseekCoder-V2",
     "provider_url": "https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Lite-Base",
     "urls": [
-      "https://huggingface.co/bartowski/DeepSeek-Coder-V2-Lite-Base-GGUF/resolve/main/DeepSeek-Coder-V2-Lite-Base-Q8_0_L.gguf"
+      "https://huggingface.co/mradermacher/DeepSeek-Coder-V2-Lite-Base-GGUF/resolve/main/DeepSeek-Coder-V2-Lite-Base.Q8_0.gguf"
     ],
-    "sha256": "0516a0d5f1e89b081cebed7f353fb7230913f3040a924988607890832aee04a7"
+    "sha256": "c748ec6b2054b520ffad79a50042acfb995b38e8151aab4ad92dc465de0151be"
   },
   {
     "license_name": "MIT",
