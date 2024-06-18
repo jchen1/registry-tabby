@@ -7,7 +7,7 @@
     "urls": [
       "https://huggingface.co/bartowski/DeepSeek-Coder-V2-Lite-Base-GGUF/resolve/main/DeepSeek-Coder-V2-Lite-Base-Q4_K_M.gguf"
     ],
-    "sha256": "c748ec6b2054b520ffad79a50042acfb995b38e8151aab4ad92dc465de0151be"
+    "sha256": "9c606f987ace7e95bbcd93e381c32fa0438d3e2da7a94601a0ed3d18a4ed15b7"
   },
   {
     "license_name": "MIT",
